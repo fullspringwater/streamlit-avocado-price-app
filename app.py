@@ -1,4 +1,5 @@
 import streamlit
+from fbprophet import Prophet
 
 def main() :
     pass
